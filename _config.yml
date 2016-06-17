@@ -18,6 +18,7 @@ paginate: 3
 
 gems:
   - jekyll-sitemap
+  - jemoji
 
 # Build settings
 markdown: kramdown
