@@ -16,5 +16,9 @@ paginate: 3
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+gems:
+  - jekyll-sitemap
+
 # Build settings
 markdown: kramdown
+
