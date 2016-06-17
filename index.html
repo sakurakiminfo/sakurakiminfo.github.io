@@ -3,10 +3,6 @@ layout: default
 ---
 
 <div class="home">
-
-![front]({{ site.url }}/assets/front.jpg)
-![back]({{ site.url }}/assets/back.jpg)
-
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
@@ -16,6 +12,7 @@ layout: default
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		  {{ post.excerpt }}
         </h2>
       </li>
     {% endfor %}
