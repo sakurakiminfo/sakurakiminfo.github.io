@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![long]({{ site.url }}/assets/long.JPG)
+![long]({{ site.url }}/assets/long.JPG){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 This is the homepage for Sakura Kim.  A Singer, MC, and Event Planner operating primarily in Southern Viet Nam.
 
