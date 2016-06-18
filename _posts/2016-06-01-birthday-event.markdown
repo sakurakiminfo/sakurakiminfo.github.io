@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Birthday Event"
+title:  "Birthday! :birthday:"
 date:   2016-06-01 23:12:07 +0700
 categories: birthday update
 ---
