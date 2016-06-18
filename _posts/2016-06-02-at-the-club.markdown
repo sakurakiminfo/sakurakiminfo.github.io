@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Singer Event"
+title:  "At The Club"
 date:   2016-06-02 23:12:07 +0700
-categories: singer update
+categories: singer club update
 ---
 ![singer]({{ site.url }}/assets/singer.JPG)
 
