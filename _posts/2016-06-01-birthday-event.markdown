@@ -6,4 +6,4 @@ categories: birthday update
 ---
 ![birthday]({{ site.url }}/assets/birthday.JPG)
 
-I love singing at weddings.
+I love singing at birthdays. :birthday:
