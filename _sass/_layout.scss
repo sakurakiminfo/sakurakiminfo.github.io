@@ -172,6 +172,11 @@
 .page-content {
     padding: $spacing-unit 0;
 	float: left;
+	img {
+		max-width: 100%;
+		vertical-align: middle;
+		float: right;
+	}
 }
 
 .page-heading {
