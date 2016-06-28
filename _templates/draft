@@ -1,4 +1,8 @@
 ---
 layout: {{ layout }}
 title: "{{ title }}"
+categories: update
 ---
+![Image]({{ site.url }}/assets/singer.JPG)
+
+Here's where you put the text for this event
