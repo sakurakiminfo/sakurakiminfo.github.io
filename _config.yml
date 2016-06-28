@@ -20,6 +20,7 @@ gems:
   - jekyll-sitemap
   - jemoji
   - jekyll-seo-tag
+  - jekyll-paginate
 
 # Build settings
 markdown: kramdown
